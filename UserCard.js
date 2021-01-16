@@ -5,6 +5,11 @@ class UserCard {
   }
 
   showUser(data) {
+    localStorage.setItem("username", data[0].usuario)
+    window.addEventListener("DOMContentLoaded", () => {
+      localStorage.getItem("username")
+    })
+
     let profile_card = ''
 
     profile_card = `
