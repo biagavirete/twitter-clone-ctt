@@ -1,4 +1,3 @@
-// cria classe noticias
 class User {
 
   getUser() {

@@ -1,6 +1,4 @@
-// defini a classe card
 class UserCard {
-  // cria a propriedade lista que contem a tag com ID Lista do HTML
   constructor() {
     this.dados_usuario = document.querySelector(".profile-header")
   }
