@@ -5,5 +5,6 @@ Primeiro projeto da trilha React do Campinas Tech Talents. Consiste em um clone 
 ## Desenvolvido com
 
 * JavaScript
+* HTML
 * CSS
 * Bootstrap
