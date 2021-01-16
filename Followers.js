@@ -1,4 +1,4 @@
-class Followes {
+class Follower {
 
   getFollowers() {
     return fetch("./follow.json")
